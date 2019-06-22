@@ -10,3 +10,7 @@ Dayren Tolliver
 ### How it works:
 
 ### Things I learned:
+
+### Before 
+This was the first iteration of the product landing page <br/>
+![](https://media.giphy.com/media/LRUK1fggc66S4OPhQ2/giphy.gif)
