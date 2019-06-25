@@ -6,6 +6,8 @@ View site here: https://dayrentolliver.com/product-landing-page/
 Dayren Tolliver
 
 ### Technologies:
+* HTML
+* CSS
 
 ### How it works:
 
